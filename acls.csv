@@ -1,0 +1,6 @@
+KafkaPrincipal,ResourceType,PatternType,ResourceName,Operation,PermissionType,H$
+User:client,Topic,LITERAL,test,Read,Allow,*
+User:client,Topic,LITERAL,test,Write,Deny,*
+User:client,Group,LITERAL,*,Write,Allow,*
+
+
